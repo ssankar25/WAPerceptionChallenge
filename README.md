@@ -8,7 +8,7 @@ This is the image that is outputted by my implementation, which draws lines on t
 
 answer.png
 :-----------:
-
+![](https://github.com/ssankar25/WAPerceptionChallenge/blob/main/answer.png)
 
 ## Methodology
 The design process of this program included first learning Python and its basic syntax, as my main experience was mostly in Java prior to this. Then, I learned the different operations involved in OpenCV, including HSV color mapping, binary masking, and linear regression. 
